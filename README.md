@@ -49,64 +49,29 @@ I learn by building — turning ideas into prototypes, automating repetitive wor
 
 ## ⚡ `tech_stack`
 
-<p align="center">
+### 💻 Programming
 
-### 🧠 AI / Machine Learning
+`Python` · `SQL` · `C#`
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+### 🧠 AI / ML
 
-### 🌐 AI Systems / Data
+`Machine Learning` · `Computer Vision` · `Object Detection` · `CNN` · `Transformer` · `LSTM`
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,postgres,redis,docker" />
+### 🤖 LLM & RAG
 
-### ⚙️ Edge / IoT / Robotics
+`Large Language Models` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering`
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github" />
+### 🛠️ Frameworks
 
-### 💻 Development
+`PyTorch` · `TensorFlow` · `OpenCV` · `ONNX Runtime` · `Ultralytics YOLO`
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,vscode" />
+### ⚡ Optimization & Deployment
 
-</p>
+`Quantization` · `Mixed Precision` · `TensorRT` · `Raspberry Pi 5` · `Android Edge Devices`
 
----
+### 🔧 Tools & Infrastructure
 
-## 🤖 `current_mission.exe`
-
-```python
-class HanTran:
-
-    focus = [
-        "Artificial Intelligence",
-        "Edge AI",
-        "Computer Vision",
-        "LLM / RAG",
-        "IoT",
-        "Robotics",
-        "AI Products"
-    ]
-
-    mindset = "Learn by building"
-
-    mission = """
-    Transform AI research and ideas
-    into useful real-world products.
-    """
-
-    def build(self):
-        while True:
-            learn()
-            experiment()
-            automate()
-            improve()
-            ship()
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=7C3AED&center=true&vCenter=true&width=650&lines=Training+models...;Optimizing+inference...;Deploying+to+the+edge...;Connecting+devices...;Building+AI+products...;System+online+%E2%9C%85" />
-</p>
-
----
+`Git/GitHub` · `Docker` · `MongoDB` · `SQL Server` · `Selenium` · `n8n`
 
 ## 🧩 `what_i_build`
 
@@ -283,54 +248,7 @@ When I'm not training models or building systems, I enjoy:
 
 ---
 
-## 🌌 `system_status`
 
-```text
-╭──────────────────────────────────────────────╮
-│              HAN TRAN // STATUS              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🧠 AI Research              [████████░░] 80% │
-│  ⚡ Edge AI                  [███████░░░] 70% │
-│  🤖 Robotics                [██████░░░░] 60% │
-│  🌐 IoT                     [███████░░░] 70% │
-│  🚀 Product Development     [█████░░░░░] 50% │
-│                                              │
-│  STATUS: BUILDING...                         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 💭 `philosophy`
-
-<p align="center">
-
-### **"Don't just learn technology. Build something with it."**
-
-```text
-        IDEA
-         │
-         ▼
-      EXPLORE
-         │
-         ▼
-       BUILD
-         │
-         ▼
-      AUTOMATE
-         │
-         ▼
-      IMPROVE
-         │
-         ▼
-       SHIP 🚀
-```
-
-</p>
-
----
 
 ## 🌐 `connect`
 
