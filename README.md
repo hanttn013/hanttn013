@@ -1,7 +1,7 @@
-# 👋 Hey, I'm **Han Tran**
+# Hey, I'm **Han Tran**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student+%F0%9F%A7%A0;AI+%7C+Edge+AI+%7C+IoT+%7C+Robotics;Building+Ideas+into+Real+Products+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;AI+%7C+Edge+AI+%7C+IoT+%7C+Robotics;Building+Ideas+into+Real+Products;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Improve" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,32 +9,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
+  <a href="https://github.com/hanttn013">
+    <img src="https://img.shields.io/github/followers/hanttn013?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=hanttn013&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 🧠 `whoami`
+## About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     HAN TRAN // AI                         │
-├─────────────────────────────────────────────────────────────┤
-│ 🎓 Third-year Data Science student                          │
-│ 🧠 AI / Machine Learning / Computer Vision                 │
-│ ⚡ Edge AI / IoT / Robotics                                │
-│ 🔗 LLM / RAG / Intelligent Automation                     │
-│ 🛠️ Builder • Researcher • Experimenter                    │
-│ 🚀 Currently → AI Product Developer                        │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm a **third-year Data Science student** interested in **AI, Edge Computing, IoT, and Robotics**.
 
-I'm a **Data Science student** fascinated by the intersection of **AI, Edge Computing, IoT, and Robotics**.
+I enjoy learning by building — creating tools, automating workflows, experimenting with new technologies, and turning ideas into practical projects.
 
-I learn by building — turning ideas into prototypes, automating repetitive workflows, experimenting with emerging technologies, and gradually transforming useful experiments into real products.
+My current focus is on developing AI systems that can move beyond experimentation and become useful, real-world products.
 
 ```diff
 + Learn
@@ -47,147 +36,79 @@ I learn by building — turning ideas into prototypes, automating repetitive wor
 
 ---
 
-## ⚡ `tech_stack`
+## Tech Stack
 
-### 💻 Programming
+### Programming
 
 `Python` · `SQL` · `C#`
 
-### 🧠 AI / ML
+### AI / ML
 
 `Machine Learning` · `Computer Vision` · `Object Detection` · `CNN` · `Transformer` · `LSTM`
 
-### 🤖 LLM & RAG
+### LLM & RAG
 
 `Large Language Models` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering`
 
-### 🛠️ Frameworks
+### Frameworks
 
 `PyTorch` · `TensorFlow` · `OpenCV` · `ONNX Runtime` · `Ultralytics YOLO`
 
-### ⚡ Optimization & Deployment
+### Optimization & Deployment
 
 `Quantization` · `Mixed Precision` · `TensorRT` · `Raspberry Pi 5` · `Android Edge Devices`
 
-### 🔧 Tools & Infrastructure
+### Tools
 
 `Git/GitHub` · `Docker` · `MongoDB` · `SQL Server` · `Selenium` · `n8n`
 
-## 🧩 `what_i_build`
+---
 
-<table>
-<tr>
-<td width="50%">
+## What I Build
 
-### 🧠 AI
+I work across AI, automation, and edge computing, with a focus on turning technical ideas into practical systems.
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* LLM Applications
-* RAG Systems
-* AI Agents
-* Model Optimization
+**AI & Machine Learning**
 
-</td>
+Machine Learning · Computer Vision · Object Detection · Deep Learning · LLM Applications · RAG · Model Optimization
 
-<td width="50%">
+**Edge AI & IoT**
 
-### ⚡ Edge & Robotics
+Edge AI · Real-time Inference · IoT Systems · Embedded AI · Sensor Integration · Robotics
 
-* Edge AI
-* IoT Systems
-* Embedded AI
-* Real-time inference
-* Sensor integration
-* Robotics
-* Automation
+**Automation & Tools**
 
-</td>
-</tr>
+Workflow Automation · Data Pipelines · APIs · Productivity Tools · AI-powered Applications
 
-<tr>
-<td width="50%">
+**AI Products**
 
-### 🛠️ Developer Tools
-
-* Automation tools
-* Productivity systems
-* APIs
-* Data pipelines
-* AI-powered utilities
-* Developer workflows
-
-</td>
-
-<td width="50%">
-
-### 🚀 Product Thinking
-
-* Prototype → Product
-* AI × Automation
-* Practical applications
-* Rapid experimentation
-* User-focused tools
-* Turning ideas into products
-
-</td>
-</tr>
-</table>
+Rapid Prototyping · AI Automation · Practical Applications · Research-to-Product Development
 
 ---
 
-## 🔬 `research_mode`
+## Research & Interests
 
-> **Edge AI is where intelligence meets the physical world.**
+My main interest is **Edge AI** — deploying intelligent systems closer to where data is generated.
 
-My research interests revolve around deploying intelligent systems beyond the cloud:
+Rather than relying entirely on cloud infrastructure, I explore how optimized AI models can run efficiently on edge devices and interact with the physical world.
 
-```text
-             ┌──────────────┐
-             │     CLOUD    │
-             │  LLM / Data  │
-             └──────┬───────┘
-                    │
-                 Internet
-                    │
-                    ▼
-             ┌──────────────┐
-             │     EDGE     │
-             │  AI Inference│
-             └──────┬───────┘
-                    │
-              ┌─────┴─────┐
-              ▼           ▼
-        ┌──────────┐ ┌──────────┐
-        │   IoT    │ │ Robotics │
-        │ Sensors  │ │ Actuators│
-        └──────────┘ └──────────┘
-```
+**Cloud → Edge → Devices → Real-world Applications**
 
-The goal:
+My focus includes:
 
-**Smaller → Faster → Smarter → More Efficient → More Useful**
+`Model Optimization` · `Efficient Inference` · `Computer Vision` · `IoT` · `Robotics` · `Edge Deployment`
+
+The goal is simple:
+
+**Smaller → Faster → More Efficient → More Useful**
 
 ---
 
-## 🎨 `beyond_code`
+## Beyond Code
 
-When I'm not training models or building systems, I enjoy:
+Outside of technical projects, I enjoy drawing, exploring new technologies, building useful tools, experimenting with ideas, and learning about productivity, automation, and product development.
 
-🎨 **Drawing**
-
-🔬 **Exploring new technologies**
-
-⚙️ **Building useful tools**
-
-🤖 **Experimenting with AI**
-
-💡 **Turning random ideas into prototypes**
-
-📈 **Learning about productivity, automation & business**
-
-🚀 **Finding ways to turn technology into useful products**
+I'm particularly interested in finding ways to transform small ideas into useful products.
 
 ---
 
@@ -196,9 +117,9 @@ When I'm not training models or building systems, I enjoy:
 </p>
 
 <p align="center">
-  <b>⚡ Build things. Learn constantly. Turn ideas into products. 🚀</b>
+  <b>Build things. Learn constantly. Turn ideas into products.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=System+online+%E2%9C%85;Keep+building.;Keep+learning.;Keep+shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=System+online;Keep+building.;Keep+learning.;Keep+shipping." />
 </p>
