@@ -28,7 +28,6 @@ I enjoy learning by building — creating tools, automating workflows, experimen
 
 My current focus is on developing AI systems that move beyond experimentation: from training and optimization (`Quantization`, `ONNX`, `TensorRT`) to edge deployment and end-to-end automation.
 
-> *"Good models live in notebooks. Great models run in the real world."*
 
 </td>
 <td width="38%" valign="top">
