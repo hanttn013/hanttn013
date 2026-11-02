@@ -72,5 +72,5 @@ My current focus is on developing AI systems that move beyond experimentation: f
 
 <!-- ĐÂY LÀ CODE HIỂN THỊ CON RẮN -->
 <div align="center">
-  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/hanttn013/hanttn013/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/hanttn013/hanttn013/output/github-contribution-grid-snake-dark.svg)" width="100%" />
+    <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/hanttn013/hanttn013/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/hanttn013/hanttn013/output/github-contribution-grid-snake-dark.svg)" width="100%" />
 </div>
