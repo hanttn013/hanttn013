@@ -1,11 +1,8 @@
 <div align="center">
-  <!-- Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:00FF88&height=190&section=header&text=HAN%20TRAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Edge%20AI%20%7C%20IoT%20%26%20Robotics&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:00FF88&height=180&section=header&text=HAN%20TRAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <!-- Typing SVG Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Ideas+into+Real-World+AI+Products;Cloud+Training+%E2%86%92+Edge+Deployment+%E2%86%92+Real-Time+Action;Making+AI+Smaller%2C+Faster%2C+and+Practical;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Science+Student+%7C+Edge+AI+%7C+IoT+%26+Robotics;Building+Ideas+into+Real-World+AI+Products;Cloud+Training+%E2%86%92+Edge+Deployment+%E2%86%92+Real-Time+Action;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Typing SVG" />
 
-  <!-- Badges & Social Links -->
   <p>
     <a href="https://github.com/hanttn013">
       <img src="https://img.shields.io/github/followers/hanttn013?label=Followers&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
