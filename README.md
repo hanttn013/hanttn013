@@ -21,7 +21,6 @@
   <p>I'm a <b>third-year Data Science student</b> interested in <b>AI, Edge Computing, IoT, and Robotics</b> — obsessed with pushing AI out of Jupyter Notebooks and onto real-world hardware.</p>
   <p>I enjoy learning by building — creating tools, automating workflows, experimenting with new technologies, and turning ideas into practical projects.</p>
   <p>My current focus is on developing AI systems that move beyond experimentation: from training and optimization (<code>Quantization</code>, <code>ONNX</code>, <code>TensorRT</code>) to edge deployment and end-to-end automation.</p>
-  <blockquote><i>"Good models live in notebooks. Great models run in the real world."</i></blockquote>
 </td>
 <td width="38%" valign="top">
 <pre>
@@ -153,10 +152,6 @@
 
 <hr/>
 
-<p align="center">
-  <b>Don't just train AI. Deploy it where the data happens.</b><br/>
-  <i>Build things. Learn constantly. Turn ideas into products.</i>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=14&amp;pause=1200&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=System+online.;Model+quantized.+Edge+node+active.;Keep+building.+Keep+learning.+Keep+shipping" />
